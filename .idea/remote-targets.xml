@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="sergey@192.168.1.8:22" type="ssh/sftp" uuid="f9d930fd-f32d-45ff-9041-add11ef72184">
+        <config>
+          <option name="projectRootOnTarget" value="/home/sergey/gprc linux daemon" />
+          <option name="serverName" value="sergey@192.168.1.8:22 password" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/sergey/go" />
+            <option name="goRoot" value="/usr/bin" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
